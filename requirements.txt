@@ -8,7 +8,6 @@ altair
 plotly.express
 seaborn
 Nominatim
-GeocoderTimedOut
 os
 geopy.geocoders
 geopy.exc
