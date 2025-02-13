@@ -8,5 +8,3 @@ altair
 plotly.express
 seaborn
 Nominatim
-geopy.geocoders
-geopy.exc
